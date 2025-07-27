@@ -8,7 +8,7 @@
     <AssemblyOriginatorKeyFile>..\packetnet.snk</AssemblyOriginatorKeyFile>
     <Configurations>Release;Debug</Configurations>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <PackageId>$(AssemblyName)</PackageId>
+    <PackageId>Magic.$(AssemblyName)</PackageId>
     <Description>High performance .NET assembly for dissecting and constructing network packets such as Ethernet, IP, TCP, UDP, etc.</Description>
     <PackageLicense>https://github.com/dotpcap/packetnet/blob/master/LICENSE</PackageLicense>
     <PackageLicenseExpression>MPL-2.0</PackageLicenseExpression>
